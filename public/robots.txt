@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bymevpn-site.duckdns.org/sitemap.xml
