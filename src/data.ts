@@ -1,6 +1,6 @@
 export const SITE_URL = 'https://bymevpn-site.duckdns.org/';
 
-export const TELEGRAM_BOT = 'https://t.me/ByMeVPN_bot?start=src_website';
+export const TELEGRAM_BOT = 'https://t.me/ByMeVPNbot';
 export const TELEGRAM_SUPPORT = 'https://t.me/ByMeVPNSupportBot';
 
 export const ANDROID_RELEASE_URL = 'https://github.com/Brof14/ByMeVPN-app/releases/latest';
